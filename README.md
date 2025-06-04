@@ -9,6 +9,6 @@ You can configure the distance between the round levels as well as all color/sty
 ![Round Levels - an example chart with inverted round levels zones](https://github.com/EarnForex/RoundLevels/blob/master/README%20Images/Round%20Levels.png)
 
 A detailed description of the indicator is available here:
-https://www.earnforex.com/metatrader-indicators/Round-Levels/
+https://www.earnforex.com/indicators/Round-Levels/
 
 If you have any suggestions for improvement of this indicator, please create an issue or submit a pull-request.
