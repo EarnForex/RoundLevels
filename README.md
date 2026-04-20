@@ -1,6 +1,6 @@
 # Round Levels
 
-Round Levels indicator for MT4 and MT5 by EarnForex.com.
+Round Levels indicator for MT4, MT5, and cTrader by EarnForex.com.
 
 Round Levels automatically positions lines or zones at or between the psychologically important price levels on the chart.
 
